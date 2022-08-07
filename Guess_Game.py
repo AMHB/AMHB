@@ -21,5 +21,5 @@ while True:
     i = guess
     continue
   if status == "d":
-    print("Yesssss your guess is correct!!!")
+    print("Yessss your guess is correct!!!")
     break
