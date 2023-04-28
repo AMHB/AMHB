@@ -1,0 +1,37 @@
+Ricardo is looking to hire a Network Engineer to join our Global IT Operations team to support our continued growth.
+
+
+Responsibilities
+
+Designing and implementing new network solutions and/or improving the efficiency of current networks
+
+Installing, configuring and supporting network equipment including routers, proxy servers, switches, WAN accelerators, DNS and DHCP
+
+Procuring network equipment and managing subcontractors involved with network installation
+
+Configuring firewalls, routing and switching to maximise network efficiency and security
+
+Daily monitoring, evaluation and troubleshooting to maintain and improve network performance
+
+Arranging scheduled upgrades
+
+Investigating faults in the network
+
+Updating network equipment to the latest firmware releases
+
+Reporting network status to key stakeholders
+
+
+Skills and Experience
+
+Educated to degree level (or equivalent relevant experience)
+
+Excellent knowledge of how to install, configure and maintain switch and routing technologies (preferably Fortinet and Cisco), wireless technology (ideally Aruba and Meraki) and VPN technology
+
+Knowledge of network management and monitoring tools such as (Fortinet Manager and Paessler PRTG) and technical understanding of security products
+
+Some experience of suppliers to achieve contracted service level agreements
+
+Demonstrable experience of managing a 2nd/3rd line network (WAN/LAN/WiFi) support and configuration service
+
+Logical approach to troubleshooting and use of appropriate troubleshooting tool
